@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "HealthSphere AI",
+    "slug": "healthsphere-ai",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "newArchEnabled": true,
+    "android": {
+      "package": "com.healthsphere.ai",
+      "adaptiveIcon": {
+        "backgroundColor": "#071521"
+      }
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.healthsphere.ai"
+    },
+    "plugins": ["expo-secure-store"]
+  }
+}
